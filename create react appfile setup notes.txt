@@ -1,0 +1,15 @@
+create REAT setup:-
+commands:
+
+1)node -v
+2)create-react-app
+3)npm
+4)cd desktop
+5)mkdir myREACT ->FILENAME
+6)cd myReact
+7)npm install -g create-react-app
+8)npx create-reast-app ->filename
+9)cd myreactapp
+10)yarn start.
+
+
