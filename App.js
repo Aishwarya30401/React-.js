@@ -19,9 +19,14 @@ function App() {
         </a>
       </header>
       <button id="click">click me</button>
-      <br>
       <button2 id="click">hii</button2>
+      <form>
+        <label class="name">
+          <input type="text" placeholder="enter your name" size="10"></input>
+        </label>
+      </form>
     </div>
+  
   );
 }
 
